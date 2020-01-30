@@ -312,5 +312,6 @@ namespace LRS.Controllers
         //        await userManager.FindByEmailAsync(email);
         //    return Json(result == null, JsonRequestBehavior.AllowGet);
         //}
+        //30/1/20
     }
 }
